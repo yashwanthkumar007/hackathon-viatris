@@ -21,6 +21,9 @@ function App() {
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
         </div>
+        <h1 className="text-3xl font-bold text-blue-500">
+  Tailwind Working 🚀
+</h1>
         <button
           className="counter"
           onClick={() => setCount((count) => count + 1)}
